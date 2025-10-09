@@ -1,5 +1,6 @@
 # OpenCV Projects Collection
 
+
 This repository contains a collection of computer vision projects implemented using OpenCV and various deep learning models. The projects range from object detection to counting tasks, all aimed at showcasing real-world applications of OpenCV.
 
 ## Projects in this Repository
